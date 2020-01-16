@@ -3,22 +3,54 @@
     - name: CURRENT MEMBER
       link: /page-1/
       items:
-        - name: 这里写上咱们的名字，link全部改为page-1
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-1/
-        - name: Page With Menubar
-          link: /page-1/
-        - name: Page With Tabs
-          link: /page-1/
-        - name: Page Without Footer
-          link: /page-1/
-        - name: Page Without Hero
-          link: /page-without-hero/
-        - name: Page With Contents
-          link: /page-with-contents/
-        - name: Landing Page With Callouts
-          link: /landing/
+            - name: ·红带
+              link: /page-1/
+            - name: Page Without Sidebar
+              link: /page-1/
+            - name: Page With Menubar
+              link: /page-1/
+            - name: Page With Tabs
+              link: /page-1/
+            - name: Page Without Footer
+              link: /page-1/
+            - name: Page Without Hero
+              link: /page-without-hero/
+            - name: Page With Contents
+              link: /page-with-contents/
+            - name: Landing Page With Callouts
+              link: /landing/
+            - name: ·蓝带
+              link: /page-1/
+            - name: Page Without Sidebar
+              link: /page-1/
+            - name: Page With Menubar
+              link: /page-1/
+            - name: Page With Tabs
+              link: /page-1/
+            - name: Page Without Footer
+              link: /page-1/
+            - name: Page Without Hero
+              link: /page-without-hero/
+            - name: Page With Contents
+              link: /page-with-contents/
+            - name: Landing Page With Callouts
+              link: /landing/
+            - name: ·青葱成长时
+              link: /page-1/
+            - name: Page Without Sidebar
+              link: /page-1/
+            - name: Page With Menubar
+              link: /page-1/
+            - name: Page With Tabs
+              link: /page-1/
+            - name: Page Without Footer
+              link: /page-1/
+            - name: Page Without Hero
+              link: /page-without-hero/
+            - name: Page With Contents
+              link: /page-with-contents/
+            - name: Landing Page With Callouts
+              link: /landing/
     - name: LAB ALUMNI
       link: /page-2/
       items:

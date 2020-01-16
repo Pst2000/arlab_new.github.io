@@ -1,7 +1,7 @@
 # Site Settings
 title: ARlab
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+tagline: ShanghaiTech University
+email: yanglf@shanghaitech.edu.cn
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
@@ -9,7 +9,7 @@ url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 
-paginate: 5
+paginate: 0
 paginate_path: "/blog/page:num"
 
 # Disqus Comments

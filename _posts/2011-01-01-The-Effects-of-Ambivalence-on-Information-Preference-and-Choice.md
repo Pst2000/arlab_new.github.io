@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Effects of Ambivalence on Information Preference and Choice
 ---
 <h2>{{ page.title }}</h2>

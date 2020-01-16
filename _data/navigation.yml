@@ -1,4 +1,4 @@
-- name: NEWS
+- name: NEWS & RESEARCHES
   link: /products/
 - name: MEMBER
   link: /#
@@ -9,7 +9,7 @@
       link: /page-2/
     - name: LAB VISITORS
       link: /page-3/
-- name: REASEARCH
+- name: COOPERATION
   link: /showcase/
 - name: JOIN US
   link: /blog/
