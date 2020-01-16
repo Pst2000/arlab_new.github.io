@@ -1,0 +1,15 @@
+- name: NEWS
+  link: /products/
+- name: MEMBER
+  link: /#
+  dropdown:
+    - name: CURRENT MEMBER
+      link: /page-1/
+    - name: LAB ALUMNI
+      link: /page-2/
+    - name: LAB VISITORS
+      link: /page-3/
+- name: REASEARCH
+  link: /showcase/
+- name: JOIN US
+  link: /blog/

@@ -1,0 +1,59 @@
+- label: MEMBER
+  items:
+    - name: CURRENT MEMBER
+      link: /page-1/
+      items:
+        - name: 这里写上咱们的名字，link全部改为page-1
+          link: /page-1/
+        - name: Page Without Sidebar
+          link: /page-1/
+        - name: Page With Menubar
+          link: /page-1/
+        - name: Page With Tabs
+          link: /page-1/
+        - name: Page Without Footer
+          link: /page-1/
+        - name: Page Without Hero
+          link: /page-without-hero/
+        - name: Page With Contents
+          link: /page-with-contents/
+        - name: Landing Page With Callouts
+          link: /landing/
+    - name: LAB ALUMNI
+      link: /page-2/
+      items:
+        - name: 这里写alumni，page-2
+          link: /page-2/
+        - name: Page Without Sidebar
+          link: /page-2/
+        - name: Page With Menubar
+          link: /page-2/
+        - name: Page With Tabs
+          link: /page-2/
+        - name: Page Without Footer
+          link: /page-2/
+        - name: Page Without Hero
+          link: /page-without-hero/
+        - name: Page With Contents
+          link: /page-with-contents/
+        - name: Landing Page With Callouts
+          link: /landing/
+    - name: LAB VISITORS
+      link: /page-3/
+      items:
+        - name: 这里是visitors，page-3
+          link: /page-3/
+        - name: Page Without Sidebar
+          link: /page-3/
+        - name: Page With Menubar
+          link: /page-3/
+        - name: Page With Tabs
+          link: /page-3/
+        - name: Page Without Footer
+          link: /page-3/
+        - name: Page Without Hero
+          link: /page-without-hero/
+        - name: Page With Contents
+          link: /page-with-contents/
+        - name: Landing Page With Callouts
+          link: /landing/
