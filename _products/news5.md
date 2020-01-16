@@ -1,10 +1,10 @@
 ---
-title: Lecture Announcement
-subtitle: The ABC of Ambivalence Affective, Behavioral, and Cognitive Consequences of Attitudinal Conflict
+title: Conference Announcement
+subtitle: Welcome to ISARIM 2019!
 layout: news
-image: images/Poster for Frenk.png
+image: images/ISARIM_2019.PNG
 ---
 
-<span style="font-size: 15px !important; color: #BD0026;">2018年8月31日</span> 
-### Lecture Announcement: The ABC of Ambivalence: Affective, Behavioral, and Cognitive Consequences of Attitudinal Conflict
-<div align="center"><img src="images/Poster for Frenk.png" width="600" align="center" /></div><br>
+<span style="font-size: 15px !important; color: #BD0026;">2019年8月12日</span> 
+### [Conference Announcement: Welcome to ISARIM 2019!](http://arlab.sem.shanghaitech.edu.cn/isarim/)
+<div align="center"><img src="images/ISARIM_2019.PNG" width="600" align="center" /></div><br>

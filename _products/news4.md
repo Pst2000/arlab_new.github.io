@@ -1,10 +1,12 @@
 ---
-title: Conference Announcement
-subtitle: Welcome to ISARIM 2019!
+title: 18级本科生问卷结果反馈
+subtitle: ——情感问题篇
 layout: news
-image: images/ISARIM_2019.PNG
+image: images/图片12.png
 ---
 
-<span style="font-size: 15px !important; color: #BD0026;">2019年8月12日</span> 
-### [Conference Announcement: Welcome to ISARIM 2019!](http://arlab.sem.shanghaitech.edu.cn/isarim/)
-<div align="center"><img src="images/ISARIM_2019.PNG" width="600" align="center" /></div><br>
+This is the content about the product.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+
+Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
