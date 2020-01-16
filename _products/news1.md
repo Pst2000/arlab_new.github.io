@@ -1,23 +1,14 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-product_code: ABC124
-layout: product
-image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
-features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+title: 创管学院成功主办2019态度研究与创新管理国际研讨会
+subtitle: ISARIM 2019 was Held Successfully at ShanghaiTech University
+layout: news
+image: images/ISARIM_2019.PNG
 ---
 
-This is the content about the product.
+<span style="font-size: 15px !important; color: #BD0026;">2019年9月28日</span>
+### 创管学院成功主办2019态度研究与创新管理国际研讨会
+### ISARIM 2019 was Held Successfully at ShanghaiTech University
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+[点击查看原文](/_posts/2019-09-28-ISARIM.md)
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+[click here for further information](https://www.ar-lab.cn/2019-09-28-ISARIM-En/)
