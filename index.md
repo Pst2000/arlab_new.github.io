@@ -4,7 +4,7 @@ subtitle: Attitude Research Laboratory | 态 度 研 究 实 验 室
 layout: page
 # callouts: home_callouts
 show_sidebar: false
-image: /img/avatar-icon.jpg
+# image: /img/avatar-icon.jpg
 ---
 <div align="center"><img src="img/avatar-icon.jpg" width="200" align="center" /></div><br>
 # <center> 关于我们 ｜ About Us </center>
