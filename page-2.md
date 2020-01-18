@@ -16,7 +16,7 @@ menubar: example_menu
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
-<div align="center"><img src="images_alumni/JiXia_Large.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="images_alumni/JiXia.jpg" width="200" align="center" /></div><br>
 　　Ji’s research focuses on how motivational forces (goals, evolutionary needs, etc.) could shape people’s cognitions and behaviors. Primarily, he’s interested in motivational factors that hold the potential in influencing how people react to persuasive information as well how they perceive their own reactions (metacognition) and subsequently, how these processes could affect the ways people form/change their attitudes. Ji is originally from China, and received his B.S. (in 2013) and M.S. (in 2016) degree from the University of Iowa.
 <br><br>
 
