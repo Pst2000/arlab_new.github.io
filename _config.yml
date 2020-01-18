@@ -61,7 +61,7 @@ defaults:
       author: "C.S. Rhymes"
       layout: post
       image: /img/avatar-icon.jpg
-      show_sidebar: true
+      show_sidebar: false
 
 markdown: kramdown
 highlighter: rouge
