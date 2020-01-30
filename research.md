@@ -1,7 +1,7 @@
 ---
 title: NEWS & EVENTS
 subtitle: Done, doing and to-do
-layout: false
+layout: default
 show_sidebar: false
 ---
 
