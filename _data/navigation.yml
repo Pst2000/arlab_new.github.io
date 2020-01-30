@@ -1,6 +1,4 @@
-- name: NEWS & RESEARCHES
-  link: /products/
-- name: MEMBER
+- name: MEMBERS
   link: /#
   dropdown:
     - name: CURRENT MEMBER
@@ -9,6 +7,10 @@
       link: /page-2/
     - name: LAB VISITORS
       link: /page-3/
+- name: NEWS & EVENTS
+  link: /products/
+- name: RESEARCH
+  link: /products/
 - name: COLLABORATION
   link: /showcase/
 - name: JOIN US
