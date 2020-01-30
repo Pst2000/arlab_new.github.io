@@ -1,7 +1,7 @@
 - name: MEMBERS
   link: /#
   dropdown:
-    - name: CURRENT MEMBER
+    - name: CURRENT MEMBERS
       link: /page-1/
     - name: LAB ALUMNI
       link: /page-2/

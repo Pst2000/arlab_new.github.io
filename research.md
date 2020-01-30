@@ -1,11 +1,9 @@
 ---
-title: NEWS & EVENTS
-subtitle: Done, doing and to-do
+title: RESEARCH
+subtitle: Research papers
 layout: page
 show_sidebar: false
 ---
-
-<p class="title is-4">Research Papers</p>
 
 <div class="columns is-multiline">
     {% for post in site.posts %}
