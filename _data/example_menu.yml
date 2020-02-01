@@ -1,6 +1,6 @@
 - label: MEMBER
   items:
-    - name: CURRENT MEMBER
+    - name: CURRENT MEMBERS
       link: /page-1/
       items:
             - name: ———研究员———
@@ -38,6 +38,8 @@
             - name: 李家齐
               link: /page-1/
             - name: 彭绍庭
+              link: /page-1/
+            - name: 王金泽
               link: /page-1/
             - name: ——游走江湖群——
               link: /page-1/
