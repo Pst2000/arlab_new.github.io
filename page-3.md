@@ -27,10 +27,3 @@ I'm a South Dakota native who earned my PhD in social psychology with a minor in
 Xue studied chemistry in the school of physical science and technology and minored in innovation and entrepreneurship in ShanghaiTech. She is a graduate student studying chemistry at University of Bristol. Taking taekwondo, painting, playing the piano and traveling as hobbies, Xue has a comprehensive background. Willing to challenge new field, also good at observing and analyzing details, she prefers to be an instructor in the future. 
 <br><br>
 
-<hr>
-<b><span style="font-size: 20px !important; color: #4B0082;">曾理 Li Zeng</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-visitors/GuangyuanWeng.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。 理想是成为一名计算机科学领域研究人员。对社会心理学和人工智能有一定的兴趣，希望能在ARLab对相关课题做一定的研究，并积累自己的研究经验，锻炼研究能力。
-<br><br>
-

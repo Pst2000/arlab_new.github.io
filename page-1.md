@@ -128,12 +128,6 @@ I am an undergraduate student majoring in Computer Science. I like sports, trave
 就读于上海科技大学物质科学与技术学院材料科学与技术专业，理想从事教育行业。正在学习社会心理学、数学建模等知识。希望了解更多人们做决定时的心态。擅长自媒体研究、实验材料设计。
 <br><br>
 
-<b><span style="font-size: 20px !important; color: #4B0082;">郭嘉茗 Jiaming Guo</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images/JiamingGuo.jpg" width="200" align="center" /></div><br>
-Jiaming is an undergraduate student majoring in Biology @ShanghaiTech. She is interested in studying Biology, Physics, Chemistry, and Emotions. Jiaming loves integrated ideas from all areas to provide solutions to problems. Together with her four other teammates, Jiaming and her team won the second prize in a design thinking competition, “HackShanghai”. Defining herself as a dreamer, Jiaming also loves poetry.
-<br><br>
-
 
 <b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Diane Huang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
@@ -141,11 +135,10 @@ Jiaming is an undergraduate student majoring in Biology @ShanghaiTech. She is in
 As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab for learning in autumn,2018. Armed with passions for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
 <br><br>
 
-
-<b><span style="font-size: 20px !important; color: #4B0082;">张哿 Ge Zhang</span></b><br>
+<hr>
+<b><span style="font-size: 20px !important; color: #4B0082;">曾理 Li Zeng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img class="zhangge" src="https://ar-lab.cn/images/GeZhang.png" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。擅长网站制作与维护，正在学习机器学习项目的开发。对商业模式和消费者行为学有兴趣，目前主要为实验室网站提供技术支持。
+<div align="center"><img src="https://ar-lab.cn/images-visitors/GuangyuanWeng.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。 理想是成为一名计算机科学领域研究人员。对社会心理学和人工智能有一定的兴趣，希望能在ARLab对相关课题做一定的研究，并积累自己的研究经验，锻炼研究能力。
 <br><br>
-
 
