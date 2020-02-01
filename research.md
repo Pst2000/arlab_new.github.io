@@ -1,7 +1,7 @@
 ---
 title: RESEARCH
 subtitle: Research papers
-layout: page
+layout: default
 show_sidebar: false
 ---
 
