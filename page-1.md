@@ -1,5 +1,5 @@
 ---
-title: MEMBER
+title: MEMBERS
 subtitle: The Brilliant Us
 layout: page
 show_sidebar: false
@@ -116,6 +116,12 @@ I major in electronic engineering in SIST. I'm very interested in studying how p
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
 
 I am an undergraduate student majoring in Computer Science. I like sports, traveling, playing the guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
+<br><br>
+
+<b><span style="font-size: 22px !important; color: #4B0082;">王金泽 Jinze Wang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center"><img src="https://ar-lab.cn/images/JinzeWang.png" width="300" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。对经济学原理在生活中的应用比较感兴趣。课余时间喜欢踢足球、玩游戏。乐于接受新鲜的事物，面对自己决定要做的事时会全神贯注。
 <br><br>
 
 

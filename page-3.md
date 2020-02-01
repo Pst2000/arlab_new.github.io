@@ -1,5 +1,5 @@
 ---
-title: MEMBER
+title: MEMBERS
 subtitle: The Brilliant Us
 layout: page
 show_sidebar: false

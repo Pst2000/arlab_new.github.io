@@ -5,6 +5,6 @@ layout: page
 # showcase: showcase_example
 show_sidebar: false
 ---
-<div align="center"><img src="https://ar-lab.cn/img/smart.jpg" width="200" align="center" /></div><br>
+<img src="https://ar-lab.cn/img/smart.jpg" width="400"><br>
 
 #### [SMART 实验室](http://dengji-zhao.net/smart/index.html#page-top)
