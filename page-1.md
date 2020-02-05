@@ -22,7 +22,7 @@ menubar: example_menu
 <b><span style="font-size: 20px !important; color: #4B0082;">方志欣 Zhixin Fang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机科学 2017级本科 (CS 2017)</span><br>
 <div align="center"><img src="https://ar-lab.cn/images/ZhixinFang.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学专业。对心理和行为的分析极其有兴趣，正在学习行为学建模和C语言编程。网络社交相关话题的idea generator，最近致力于目标梯度(goal gradients)相关的研究。
+就读于上海科技大学信息科学与技术学院计算机科学专业。对心理和行为的分析极其有兴趣，正在学习行为学建模和C语言编程。网络社交相关话题的idea generator，最近致力于目标梯度(goal gradients)相关的研究。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">刘浩宇 Haoyu Liu</span></b><br>

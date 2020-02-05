@@ -28,13 +28,13 @@ menubar: example_menu
 <b><span style="font-size: 20px !important; color: #4B0082;">沈凡婷 Fangting Shen</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
 <div align="center"><img src="https://ar-lab.cn/images-alumni/FantingShen.jpg" width="200" align="center" /></div><br>
-上海科技大学信息学院计算机专业本科毕业生，同时辅修创新与创业专业。擅长设计制作实体demo，习惯观察分析人物的性格与神态细节，喜欢音乐与乐团，也喜欢有挑战的东西。对"全网黑"这一现象的形成原因与网民的观点形成方式比较感兴趣，曾研究上海文化的形成原因。
+上海科技大学信息学院计算机专业本科毕业生，同时辅修创新与创业专业。擅长设计制作实体demo，习惯观察分析人物的性格与神态细节，喜欢音乐与乐团，也喜欢有挑战的东西。对"全网黑"这一现象的形成原因与网民的观点形成方式比较感兴趣，曾研究上海文化的形成原因。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">俞家桐 Jiatong Yu</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
 <div align="center"><img src="https://ar-lab.cn/images-alumni/JiatongYu.jpg" width="200" align="center" /></div><br>
-上海科技大学信息学院计算机科学与技术专业本科毕业生。现任职于普华永道（PwC）上海广告咨询部。对市场及用户研究十分感兴趣，曾进行过群体与个体消费行为的研究。
+上海科技大学信息学院计算机科学与技术专业本科毕业生。现任职于普华永道（PwC）上海广告咨询部。对市场及用户研究十分感兴趣，曾进行过群体与个体消费行为的研究。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张星雅 Xingya Zhang</span></b><br>
@@ -46,7 +46,7 @@ menubar: example_menu
 <b><span style="font-size: 20px !important; color: #4B0082;">朱汪俊 Wangjun Zhu</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
 <div align="center"><img src="https://ar-lab.cn/images-alumni/WangjunZhu.jpg" width="200" align="center" /></div><br>
-上海科技大学信息科学与技术学院计算机科学专业本科毕业生。喜欢天文，对心理学也有一定的兴趣，善于倾听，希望通过学习了解人类的行为模式。
+上海科技大学信息科学与技术学院计算机科学专业本科毕业生。喜欢天文，对心理学也有一定的兴趣，善于倾听，希望通过学习了解人类的行为模式。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曾祥琛 Xiangchen Zeng</span></b><br>
