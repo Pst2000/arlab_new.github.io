@@ -8,6 +8,6 @@ image: images/EMAC.jpg
 
 <div align="center"><img src="http://www.ar-lab.cn/new4img/接收函.jpg" width="700" align="center" /></div><br>
 
-值得一提的是，这是EMAC有史以来第一次有非商科专业本科生独立做会议报告。
+*张星雅同学为上科大信息学院2015级本科生（EE专业）。European Marketing Academy Conference (EMAC) 为欧洲营销学最顶级营销学学术研究年会。
 
-更多有关张星雅的资料见 members -> alumni；文章内容见 Research -> Does Mobile Payment Make You Spend More。
+张星雅同学现为美国伊利诺伊大学香槟分校（UIUC）工程管理硕士研究生。
