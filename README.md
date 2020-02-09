@@ -99,7 +99,7 @@ For the top navigation, create a navigation.yml file in `_data` directory with t
 
 ```yaml
 - name: Page 1
-  link: /page-1/
+  link: /current_members/
 - name: Blog
   link: /blog/
   dropdown: 
@@ -155,7 +155,7 @@ Create a data file in the _data directory and use the following format (if using
       link: #
       items:
         - name: Page With Sidebar 
-          link: /page-1/
+          link: /current_members/
         - name: Page Without Sidebar
           link: /page-2/
         - name: Page With Menubar
@@ -220,7 +220,7 @@ items:
     link: /page-4/
     icon: fa-smile-wink
   - name: Sidebar
-    link: /page-1/
+    link: /current_members/
     icon: fa-square
   - name: No Sidebar
     link: /page-2/
@@ -389,7 +389,7 @@ items:
 
       For example, such as this. 
     call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
+    call_to_action_link: /current_members/
 ```
 
 #### Set the callouts in the frontmatter

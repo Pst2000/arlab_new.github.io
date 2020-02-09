@@ -3,7 +3,7 @@ layout: page
 title: Example Landing Page
 subtitle: This is an example landing page with callouts
 hero_height: is-large
-hero_link: /page-1/
+hero_link: /current_members/
 hero_link_text: Example Call To Action
 show_sidebar: false
 callouts: example_callouts
@@ -22,7 +22,7 @@ layout: page
 title: Example Landing Page
 subtitle: This is an example landing page with callouts
 hero_height: is-large
-hero_link: /page-1/
+hero_link: /current_members/
 hero_link_text: Example Call To Action
 ```
 
@@ -47,7 +47,7 @@ items:
 
       For example, such as this. 
     call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
+    call_to_action_link: /current_members/
   - title: Example callout 2
     subtitle: Example subtitle 2
     icon: fa-wrench

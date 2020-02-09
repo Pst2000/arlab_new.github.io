@@ -35,7 +35,7 @@ items:
     link: /page-4/
     icon: fa-smile-wink
   - name: Sidebar
-    link: /page-1/
+    link: /current_members/
     icon: fa-square
   - name: No Sidebar
     link: /page-2/

@@ -1,54 +1,54 @@
 - label: MEMBER
   items:
     - name: CURRENT MEMBERS
-      link: /page-1/
+      link: /current_members/
       items:
             - name: ———研究员———
-              link: /page-1/
+              link: /current_members/
             - name: 杨丽凤
-              link: /page-1/
+              link: /current_members/
             - name: ———红 带———
-              link: /page-1/
+              link: /current_members/
             - name: 方志欣
-              link: /page-1/
+              link: /current_members/
             - name: 刘浩宇
-              link: /page-1/
+              link: /current_members/
             - name: 陶天立
-              link: /page-1/
+              link: /current_members/
             - name: 肖子坤
-              link: /page-1/
+              link: /current_members/
             - name: 苗雨欣
-              link: /page-1/
+              link: /current_members/
             - name: 黄辰彬
-              link: /page-1/
+              link: /current_members/
             - name: ———蓝 带———
-              link: /page-1/
+              link: /current_members/
             - name: 成昂
-              link: /page-1/
+              link: /current_members/
             - name: 王悦豪
-              link: /page-1/
+              link: /current_members/
             - name: 张启煊
-              link: /page-1/
+              link: /current_members/
             - name: 曾庆礼
-              link: /page-1/
+              link: /current_members/
             - name: ——青葱成长时——
-              link: /page-1/
+              link: /current_members/
             - name: 刘梦云
-              link: /page-1/
+              link: /current_members/
             - name: 李家齐
-              link: /page-1/
+              link: /current_members/
             - name: 彭绍庭
-              link: /page-1/
+              link: /current_members/
             - name: 王金泽
-              link: /page-1/
+              link: /current_members/
             - name: ——游走江湖群——
-              link: /page-1/
+              link: /current_members/
             - name: 石兆杰
-              link: /page-1/
+              link: /current_members/
             - name: 黄豆豆
-              link: /page-1/
+              link: /current_members/
             - name: 曾理
-              link: /page-1/
+              link: /current_members/
     - name: LAB ALUMNI
       link: /page-2/
       items:
