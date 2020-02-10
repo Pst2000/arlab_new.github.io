@@ -104,7 +104,7 @@ For the top navigation, create a navigation.yml file in `_data` directory with t
   link: /blog/
   dropdown: 
     - name: Page 2
-      link: /page-2/
+      link: /lab_alumni/
 ```
 
 For the current page to have an active class, ensure the `link:` format matches your [permalink](https://jekyllrb.com/docs/permalinks/#extensionless-permalinks) format. The above example will work with `permalink: pretty` setting in your `_config.yml`
@@ -157,9 +157,9 @@ Create a data file in the _data directory and use the following format (if using
         - name: Page With Sidebar 
           link: /current_members/
         - name: Page Without Sidebar
-          link: /page-2/
+          link: /lab_alumni/
         - name: Page With Menubar
-          link: /page-3/
+          link: /lab_visitors/
     - name: Blog
       link: /blog/
 ```
@@ -223,10 +223,10 @@ items:
     link: /current_members/
     icon: fa-square
   - name: No Sidebar
-    link: /page-2/
+    link: /lab_alumni/
     icon: fa-ellipsis-v
   - name: Menubar
-    link: /page-3/
+    link: /lab_visitors/
     icon: fa-bars
 ```
 

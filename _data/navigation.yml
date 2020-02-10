@@ -4,9 +4,9 @@
     - name: CURRENT MEMBERS
       link: /current_members/
     - name: LAB ALUMNI
-      link: /page-2/
+      link: /lab_alumni/
     - name: LAB VISITORS
-      link: /page-3/
+      link: /lab_visitors/
 - name: NEWS & EVENTS
   link: /products/
 - name: RESEARCH

@@ -38,10 +38,10 @@ items:
     link: /current_members/
     icon: fa-square
   - name: No Sidebar
-    link: /page-2/
+    link: /lab_alumni/
     icon: fa-ellipsis-v
   - name: Menubar
-    link: /page-3/
+    link: /lab_visitors/
     icon: fa-bars
 ```
 

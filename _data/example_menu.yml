@@ -50,32 +50,32 @@
             - name: 曾理
               link: /current_members/
     - name: LAB ALUMNI
-      link: /page-2/
+      link: /lab_alumni/
       items:
         - name: 季佳颖
-          link: /page-2/
+          link: /lab_alumni/
         - name: Ji Xia
-          link: /page-2/
+          link: /lab_alumni/
         - name: Zhenrong (Neo) Chen
-          link: /page-2/
+          link: /lab_alumni/
         - name: 沈凡婷
-          link: /page-2/
+          link: /lab_alumni/
         - name: 俞家桐
-          link: /page-2/
+          link: /lab_alumni/
         - name: 张星雅
-          link: /page-2/
+          link: /lab_alumni/
         - name: 朱汪俊
-          link: /page-2/
+          link: /lab_alumni/
         - name: 曾祥琛
-          link: /page-2/
+          link: /lab_alumni/
         - name: 曹龄云
-          link: /page-2/
+          link: /lab_alumni/
     - name: LAB VISITORS
-      link: /page-3/
+      link: /lab_visitors/
       items:
         - name: Frenk van Harreveld
-          link: /page-3/
+          link: /lab_visitors/
         - name: Matthew D. Rocklage
-          link: /page-3/
+          link: /lab_visitors/
         - name: 方雪
-          link: /page-3/
+          link: /lab_visitors/
