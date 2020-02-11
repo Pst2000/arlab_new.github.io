@@ -24,7 +24,7 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
     * [Scripts](#scripts)
     * [Callouts](#callouts)
     * [Favicon](#favicon)
-    * [Showcases](#showcases)
+    * [collaborations](#collaborations)
     * [Disqus](#disqus)
 * [Contributing](#contributing)
 * [Development](#development)
@@ -407,11 +407,11 @@ callouts: example_callouts
 
 The default favicon path is `{{ site.baseurl }}/favicon.png` but you can overwrite it in the sites `_config.yml` like this `favicon: /path/to/favicon.png`
 
-### Showcases
+### collaborations
 
-Showcases allow you to display your work to others using a simple layout. 
+collaborations allow you to display your work to others using a simple layout. 
 
-#### Creating A Showcase Datafile
+#### Creating A collaboration Datafile
 
 Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required. 
 
@@ -425,13 +425,13 @@ To change the default styles of the features, set `features_styles`. This uses t
 
 ```yaml
 intro: |-
-  This is some introduction text for the showcases.
+  This is some introduction text for the collaborations.
   
   ## Example Heading
   It can convert markdown format
 
 items:
-  - title: Example showcase item
+  - title: Example collaboration item
     subtitle: Example subtitle
     description: |-
       This is the example description for this item that you are showcasing and has an image, title, description, tags and a link.
@@ -447,15 +447,15 @@ items:
     github: user/repo-name
 ```
 
-#### Displaying the Showcase
+#### Displaying the collaboration
 
-Set the showcase in the page's front matter to be the name of the showcase data file without the extension. This gives you the ability to create multiple showcases to be used on different pages. 
+Set the collaboration in the page's front matter to be the name of the collaboration data file without the extension. This gives you the ability to create multiple collaborations to be used on different pages. 
 
 ```yaml
-title: Showcase
-subtitle: An example showcase page
+title: collaboration
+subtitle: An example collaboration page
 layout: page
-showcase: showcase_example
+collaboration: collaboration_example
 show_sidebar: false
 ```
 

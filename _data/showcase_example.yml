@@ -1,5 +1,5 @@
 intro: |-
-  This is an example showcase page to show you how you can use it to easily showcase your work.
+  This is an example collaboration page to show you how you can use it to easily collaboration your work.
 items:
   - title: C.S. Rhymes Website
     subtitle: csrhymes.com
@@ -27,7 +27,7 @@ items:
       - Page Contents
       - Landing Page With Callouts
       - Blog and Posts
-      - Showcases
+      - collaborations
     features_styles: is-centered is-outlined
     image: /img/bulma-clean-theme-4by3.jpg
     image_ratio: is-4by3
