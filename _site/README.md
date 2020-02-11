@@ -79,16 +79,16 @@ If you want to display a table of contents (toc) then add `toc: true` to your pa
 
 ### Posts
 
-If you want posts, create a `_posts` directory to store your posts as per normal Jekyll usage, with the `layout: post`. Next create a `blog` directory with an index.html file that has `layout: blog`
+If you want posts, create a `_posts` directory to store your posts as per normal Jekyll usage, with the `layout: post`. Next create a `join_us` directory with an index.html file that has `layout: join_us`
 
-Set the paginate and the paginate_path up in the `_config.yaml` to configure the posts per page and the blog pagination path.
+Set the paginate and the paginate_path up in the `_config.yaml` to configure the posts per page and the join_us pagination path.
 
 ```yaml
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/join_us/page:num"
 ```
 
-**New in 0.2** It will now display an image in the blog page if you set `image: /path/to/image.jpg` in your post's or page's front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
+**New in 0.2** It will now display an image in the join_us page if you set `image: /path/to/image.jpg` in your post's or page's front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
 
 You can also set the height of the hero by providing a Bulma hero height class in your front matter, such as `hero_height: is-fullwidth`. If you do not provide this, it will revert to is-medium
 
@@ -100,8 +100,8 @@ For the top navigation, create a navigation.yml file in `_data` directory with t
 ```yaml
 - name: Page 1
   link: /current_members/
-- name: Blog
-  link: /blog/
+- name: join_us
+  link: /join_us/
   dropdown: 
     - name: Page 2
       link: /lab_alumni/
@@ -160,8 +160,8 @@ Create a data file in the _data directory and use the following format (if using
           link: /lab_alumni/
         - name: Page With Menubar
           link: /lab_visitors/
-    - name: Blog
-      link: /blog/
+    - name: join_us
+      link: /join_us/
 ```
 
 For the current page to have an active class, ensure the `link:` format matches your [permalink](https://jekyllrb.com/docs/permalinks/#extensionless-permalinks) format. The above example will work with `permalink: pretty` setting in your `_config.yml`
@@ -258,8 +258,8 @@ To enable Google Analytics add `google_analytics: UA-xxxxxxxx` to your `_config.
 To add some footer links, create a yaml file in the `_data` directory using the following format
 
 ```yaml
-- name: Blog
-  link: /blog/
+- name: join_us
+  link: /join_us/
 - name: About
   link: /about/
 - name: Privacy Policy

@@ -52,7 +52,7 @@
 * Added menubar
 
 # 0.2
-* Added hero background image, blog page images and Google Analytics
+* Added hero background image, join_us page images and Google Analytics
 
 # 0.1
 * Initial release
