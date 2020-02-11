@@ -24,7 +24,7 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
     * [Scripts](#scripts)
     * [Callouts](#callouts)
     * [Favicon](#favicon)
-    * [Showcases](#showcases)
+    * [collaborations](#collaborations)
     * [Disqus](#disqus)
 * [Contributing](#contributing)
 * [Development](#development)
@@ -79,16 +79,16 @@ If you want to display a table of contents (toc) then add `toc: true` to your pa
 
 ### Posts
 
-If you want posts, create a `_posts` directory to store your posts as per normal Jekyll usage, with the `layout: post`. Next create a `blog` directory with an index.html file that has `layout: blog`
+If you want posts, create a `_posts` directory to store your posts as per normal Jekyll usage, with the `layout: post`. Next create a `join_us` directory with an index.html file that has `layout: join_us`
 
-Set the paginate and the paginate_path up in the `_config.yaml` to configure the posts per page and the blog pagination path.
+Set the paginate and the paginate_path up in the `_config.yaml` to configure the posts per page and the join_us pagination path.
 
 ```yaml
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/join_us/page:num"
 ```
 
-**New in 0.2** It will now display an image in the blog page if you set `image: /path/to/image.jpg` in your post's or page's front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
+**New in 0.2** It will now display an image in the join_us page if you set `image: /path/to/image.jpg` in your post's or page's front matter, or in the [defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) in your sites `_config.yml`
 
 You can also set the height of the hero by providing a Bulma hero height class in your front matter, such as `hero_height: is-fullwidth`. If you do not provide this, it will revert to is-medium
 
@@ -100,8 +100,8 @@ For the top navigation, create a navigation.yml file in `_data` directory with t
 ```yaml
 - name: Page 1
   link: /current_members/
-- name: Blog
-  link: /blog/
+- name: join_us
+  link: /join_us/
   dropdown: 
     - name: Page 2
       link: /lab_alumni/
@@ -160,8 +160,8 @@ Create a data file in the _data directory and use the following format (if using
           link: /lab_alumni/
         - name: Page With Menubar
           link: /lab_visitors/
-    - name: Blog
-      link: /blog/
+    - name: join_us
+      link: /join_us/
 ```
 
 For the current page to have an active class, ensure the `link:` format matches your [permalink](https://jekyllrb.com/docs/permalinks/#extensionless-permalinks) format. The above example will work with `permalink: pretty` setting in your `_config.yml`
@@ -258,8 +258,8 @@ To enable Google Analytics add `google_analytics: UA-xxxxxxxx` to your `_config.
 To add some footer links, create a yaml file in the `_data` directory using the following format
 
 ```yaml
-- name: Blog
-  link: /blog/
+- name: join_us
+  link: /join_us/
 - name: About
   link: /about/
 - name: Privacy Policy
@@ -407,11 +407,11 @@ callouts: example_callouts
 
 The default favicon path is `{{ site.baseurl }}/favicon.png` but you can overwrite it in the sites `_config.yml` like this `favicon: /path/to/favicon.png`
 
-### Showcases
+### collaborations
 
-Showcases allow you to display your work to others using a simple layout. 
+collaborations allow you to display your work to others using a simple layout. 
 
-#### Creating A Showcase Datafile
+#### Creating A collaboration Datafile
 
 Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required. 
 
@@ -425,13 +425,13 @@ To change the default styles of the features, set `features_styles`. This uses t
 
 ```yaml
 intro: |-
-  This is some introduction text for the showcases.
+  This is some introduction text for the collaborations.
   
   ## Example Heading
   It can convert markdown format
 
 items:
-  - title: Example showcase item
+  - title: Example collaboration item
     subtitle: Example subtitle
     description: |-
       This is the example description for this item that you are showcasing and has an image, title, description, tags and a link.
@@ -447,15 +447,15 @@ items:
     github: user/repo-name
 ```
 
-#### Displaying the Showcase
+#### Displaying the collaboration
 
-Set the showcase in the page's front matter to be the name of the showcase data file without the extension. This gives you the ability to create multiple showcases to be used on different pages. 
+Set the collaboration in the page's front matter to be the name of the collaboration data file without the extension. This gives you the ability to create multiple collaborations to be used on different pages. 
 
 ```yaml
-title: Showcase
-subtitle: An example showcase page
+title: collaboration
+subtitle: An example collaboration page
 layout: page
-showcase: showcase_example
+collaboration: collaboration_example
 show_sidebar: false
 ```
 

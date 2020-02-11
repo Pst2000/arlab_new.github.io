@@ -2,7 +2,7 @@
 title: COLLABORATION
 subtitle: Together with other labs, companies, etc...
 layout: page
-# showcase: showcase_example
+# collaboration: collaboration_example
 show_sidebar: false
 ---
 <img src="https://ar-lab.cn/img/smart.jpg" width="400"><br>
