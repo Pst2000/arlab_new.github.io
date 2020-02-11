@@ -9,7 +9,7 @@ show_sidebar: false
     {{ page.content }}
   </div>
 
-  {% assign sorted_news = site.products | sort:page.sort %}
+  {% assign sorted_news = site.news_events | sort:page.sort %}
 
   {% for product in sorted_news %}
   <div class="column is-4-desktop is-6-tablet">

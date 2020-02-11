@@ -20,7 +20,7 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
     * [Tabs](#tabs)
     * [Google Analytics](#google-analytics)
     * [Footer](#footer)
-    * [Products](#products)
+    * [news_events](#news_events)
     * [Scripts](#scripts)
     * [Callouts](#callouts)
     * [Favicon](#favicon)
@@ -278,7 +278,7 @@ footer_menu: example_footer_menu
 
 If you would like to hide the footer on a particular page then set `hide_footer: true` in the page's frontmatter.
 
-### Products
+### news_events
 
 **New in 0.5**
 
@@ -286,7 +286,7 @@ Now you can add simple product pages to your site using collections.
 
 #### Product pages
 
-Start by creating a `_products` directory to hold your product pages and create a new page for each product, such as `product1.md`. In the front matter for this page you can set the standard settings, such as your title, subtitle, description (for meta-description), hero_image, as well as the additional product settings such as price, product_code, image, features and rating. 
+Start by creating a `_news_events` directory to hold your product pages and create a new page for each product, such as `product1.md`. In the front matter for this page you can set the standard settings, such as your title, subtitle, description (for meta-description), hero_image, as well as the additional product settings such as price, product_code, image, features and rating. 
 
 ```yaml
 title: Product 1 Name
@@ -313,7 +313,7 @@ Next, add the following to your `_config.yml` to use collections to process the 
 
 ```yaml
 collections:
-  products: 
+  news_events: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
@@ -347,11 +347,11 @@ If you don't want to display an avatar image then a default user icon will be di
 
 #### Product Category Page
 
-To create a page listing your products you will need to create a product category page. Create a page, for example `products.md`, with the `layout: product-category` in the frontmatter. You can set the sort order of the products using `sort: title` to sort by the title, or by any setting in your product pages, such as price, rating or any custom frontmatter tags you wish to set. 
+To create a page listing your news_events you will need to create a product category page. Create a page, for example `news_events.md`, with the `layout: product-category` in the frontmatter. You can set the sort order of the news_events using `sort: title` to sort by the title, or by any setting in your product pages, such as price, rating or any custom frontmatter tags you wish to set. 
 
 ```yaml
-title: Products
-subtitle: Check out our range of products
+title: news_events
+subtitle: Check out our range of news_events
 layout: product-category
 show_sidebar: false
 sort: title
