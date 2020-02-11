@@ -17,7 +17,7 @@ In addition, young, established entrepreneurs such as Mr. Zipei Tu (i.e.: former
 
 <div align="center"><img src="http://www.ar-lab.cn/new4img/合照.jpg" width="700" align="center" /></div><br>
 
-The symposium was presided over by Professor Lifeng Yang from SEM. Professor Jie Yin, Provost and Vice-Chancellor of ShanghaiTech University, delivered an opening speech welcoming all guests and speakers. This symposium concluded with a successful note, calling for more impactful research and more in-depth collaborations between practitioners and academic scholars.
+The symposium was presided over by Professor Lifeng Yang from SEM. Professor Jie Yin, Provost and Vice-Chancellor of ShanghaiTech University, delivered an opening speech welcoming all guests and speakers. This symposium concluded with a successful note, calling for more impactful research and more in-depth showcases between practitioners and academic scholars.
 
 <div align="center"><img src="http://www.ar-lab.cn/new4img/照片 (7).jpg" width="700" align="center" /></div><br>
 <div align="center"><img src="http://www.ar-lab.cn/new4img/照片 (9).jpg" width="700" align="center" /></div><br>
