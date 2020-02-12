@@ -1,7 +1,7 @@
 ---
 title: 2015级张星雅同学科研实践文章被EMAC年会接收
 layout: news
-image: images/EMAC.jpg
+image: https://s2.ax1x.com/2020/02/12/1b6nsg.png
 ---
 
 ## <center> 2015级张星雅同学科研实践文章被EMAC年会接收
