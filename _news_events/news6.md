@@ -2,7 +2,7 @@
 title: 18级本科生问卷结果反馈
 subtitle: ——情感问题篇
 layout: news
-image: images/图片12.png
+image: https://s2.ax1x.com/2020/02/12/1b2rYn.png
 ---
 
 <h2>{{ page.title }}</h2>

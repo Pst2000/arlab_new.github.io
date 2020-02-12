@@ -1,12 +1,13 @@
 ---
 title: 《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目顺利结题
 layout: news
+image: https://s2.ax1x.com/2020/02/13/1b5tln.jpg
 ---
 
 ## <center> 《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目顺利结题
 
-<div align="center"><img src="http://www.ar-lab.cn/new4img/结题1.jpg" width="600" align="center" /></div><br>
-<div align="center"><img src="http://www.ar-lab.cn/new4img/结题2.jpg" width="600" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1b5tln.jpg" width="600" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1b4LoF.jpg" width="600" align="center" /></div><br>
 
 上海科技大学创业与管理学院杨丽凤副教授及态度实验室于2019年春顺利完成上海市科技研究项目《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》的研究工作。项目研究的主要参与人员包括态度研究实验室四名2015级上科大信息学院本科生。他们分别是：2015级计算机专业本科生俞家桐，2015级计算机专业本科生朱汪俊，2017级计算机专业本科生方志欣，以及2015级计算机专业本科生沈凡婷。
 
