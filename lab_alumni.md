@@ -11,23 +11,23 @@ menubar: example_menu
 
 <b><span style="font-size: 20px !important; color: #4B0082;">季佳颖 Jiaying Ji<br></span></b>
 <span style="font-size: 16px!important; color: #4B0082;">(MA, Communications, Hongkong Baptist University)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/JiayingJi.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qmMRS.jpg" width="200" align="center" /></div><br>
 曾为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员，主要负责研究辅助以及实验室运营的工作。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
-<div align="center"><img src="images_alumni/JiXia.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qmZVI.jpg" width="200" align="center" /></div><br>
 　　Ji’s research focuses on how motivational forces (goals, evolutionary needs, etc.) could shape people’s cognitions and behaviors. Primarily, he’s interested in motivational factors that hold the potential in influencing how people react to persuasive information as well how they perceive their own reactions (metacognition) and subsequently, how these processes could affect the ways people form/change their attitudes. Ji is originally from China, and received his B.S. (in 2013) and M.S. (in 2016) degree from the University of Iowa.
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">Zhenrong (Neo) Chen</span></b><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/ZhenrongChen.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/12/1ba3iF.png" width="200" align="center" /></div><br>
 　　Zhenrong Chen (B.S. 2018, Biological Science, ShanghaiTech University) was one of the first members of ARLab. Realizing the potential challenges and prospects in technique management integration in the biological field, he hopes to enter a scientific consulting company after getting his master degree. 
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">沈凡婷 Fangting Shen</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/FantingShen.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qmQxg.jpg" width="200" align="center" /></div><br>
 上海科技大学信息学院计算机专业本科毕业生，同时辅修创新与创业专业。擅长设计制作实体demo，习惯观察分析人物的性格与神态细节，喜欢音乐与乐团，也喜欢有挑战的东西。对"全网黑"这一现象的形成原因与网民的观点形成方式比较感兴趣，曾研究上海文化的形成原因。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
