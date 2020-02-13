@@ -33,31 +33,31 @@ menubar: example_menu
 
 <b><span style="font-size: 20px !important; color: #4B0082;">俞家桐 Jiatong Yu</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/JiatongYu.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1q27xP.jpg" width="200" align="center" /></div><br>
 上海科技大学信息学院计算机科学与技术专业本科毕业生。现任职于普华永道（PwC）上海广告咨询部。对市场及用户研究十分感兴趣，曾进行过群体与个体消费行为的研究。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张星雅 Xingya Zhang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">电子信息 2015级本科 (EE 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/XingyaZhang.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qm3rj.jpg" width="200" align="center" /></div><br>
 上海科技大学信息学院电子信息工程专业毕业生，同时辅修创管学院金融学。现为美国伊利诺伊大学香槟分校商学院Technology Management专业研究生。对于商业市场、消费者行为分析有强烈兴趣，擅长于整合处理、图形化大量数据信息并加以分析。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">朱汪俊 Wangjun Zhu</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/WangjunZhu.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qR9x0.png" width="200" align="center" /></div><br>
 上海科技大学信息科学与技术学院计算机科学专业本科毕业生。喜欢天文，对心理学也有一定的兴趣，善于倾听，希望通过学习了解人类的行为模式。在态度研究实验室期间参与了《上海促进科技与文化融合的新业态、新模式研究（C）——自媒体与城市创新文化》项目的完成，成绩优良。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曾祥琛 Xiangchen Zeng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/XiangchenZeng.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1q2QEQ.jpg" width="200" align="center" /></div><br>
 毕业于上海科技大学信息科学与技术学院计算机科学与技术专业。理想成为一名独立游戏开发者，正在努力学习计算机图形学和相关技术，同时对心理学也有一定的兴趣和研究。擅长头脑风暴和网站运维。希望通过实验室经历加强自己的开发水平和思考能力。现就职于上海AMD公司。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曹龄云 Lingyun Cao</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
-<div align="center"><img src="https://ar-lab.cn/images-alumni/CaolingYun.png" width="200" align="center" /></div><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qmuPf.jpg" width="200" align="center" /></div><br>
 毕业于上海科技大学信息科学与技术学院计算机科学与技术专业。目前就职于上海SAP公司。
 <br><br>
 
