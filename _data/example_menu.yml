@@ -29,7 +29,7 @@
               link: /current_members/
             - name: 张启煊
               link: /current_members/
-            - name: 曾庆礼
+            - name: 彭绍庭
               link: /current_members/
             - name: ——青葱成长时——
               link: /current_members/
@@ -37,23 +37,17 @@
               link: /current_members/
             - name: 李家齐
               link: /current_members/
-            - name: 彭绍庭
-              link: /current_members/
             - name: 王金泽
               link: /current_members/
             - name: ——游走江湖群——
-              link: /current_members/
-            - name: 石兆杰
-              link: /current_members/
-            - name: 黄豆豆
-              link: /current_members/
-            - name: 曾理
-              link: /current_members/
+
     - name: LAB ALUMNI
       link: /lab_alumni/
       items:
         - name: 季佳颖
           link: /lab_alumni/
+        - name: 曾庆礼
+          link: /current_members/
         - name: Ji Xia
           link: /lab_alumni/
         - name: Zhenrong (Neo) Chen
