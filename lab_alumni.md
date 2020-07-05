@@ -15,6 +15,14 @@ menubar: example_menu
 曾为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员，主要负责研究辅助以及实验室运营的工作。
 <br><br>
 
+<b><span style="font-size: 20px !important; color: #4B0082;">曾庆礼 Qingli Zeng</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZYOs.jpg" width="200" align="center" /></div><br>
+曾庆礼，2016级本科生，就读于上海科技大学信息学院，主修计算机科学与技术，辅修金融学，预计在2020年6月毕业。我对利用计算机解决商业问题很感兴趣，目前正在申请2020年秋季的营销学Ph.D.项目。在ARLab中，和杨丽凤教授合作关于数据挖掘，网络爬取，自然语言处理，以及行为经济学的项目。
+
+My name is Qingli Zeng. I am a computer science major, minoring in Finance. At ARLab, I work with Professor Yang on projects that involve data mining, web crawling, natural language processing, and behavioral economics. I will be graduating in June 2020. I am passionate about solving business problems with computer skills. I would like to continue working on research projects. Currently, I am applying for a Ph.D. degree program in Business Marketing.
+<br><br>
+
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
 <div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qmZVI.jpg" width="200" align="center" /></div><br>
 　　Ji’s research focuses on how motivational forces (goals, evolutionary needs, etc.) could shape people’s cognitions and behaviors. Primarily, he’s interested in motivational factors that hold the potential in influencing how people react to persuasive information as well how they perceive their own reactions (metacognition) and subsequently, how these processes could affect the ways people form/change their attitudes. Ji is originally from China, and received his B.S. (in 2013) and M.S. (in 2016) degree from the University of Iowa.

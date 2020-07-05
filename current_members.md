@@ -87,13 +87,10 @@ I am an undergraduate student majoring in Computer Science who is a hardcore of 
 <br><br>
 
 
-<b><span style="font-size: 20px !important; color: #4B0082;">曾庆礼 Qingli Zeng</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
-<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZYOs.jpg" width="200" align="center" /></div><br>
-曾庆礼，2016级本科生，就读于上海科技大学信息学院，主修计算机科学与技术，辅修金融学，预计在2020年6月毕业。我对利用计算机解决商业问题很感兴趣，目前正在申请2020年秋季的营销学Ph.D.项目。在ARLab中，和杨丽凤教授合作关于数据挖掘，网络爬取，自然语言处理，以及行为经济学的项目。
-
-My name is Qingli Zeng. I am a computer science major, minoring in Finance. At ARLab, I work with Professor Yang on projects that involve data mining, web crawling, natural language processing, and behavioral economics. I will be graduating in June 2020. I am passionate about solving business problems with computer skills. I would like to continue working on research projects. Currently, I am applying for a Ph.D. degree program in Business Marketing.
-<br><br>
+<b><span style="font-size: 22px !important; color: #4B0082;">彭绍庭 Shaoting Peng</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZy6J.png" width="300" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
 
 
 <span style="font-size: 22px !important; color: #00FF7F;">青葱成长时</span>
@@ -112,10 +109,6 @@ I am an undergraduate student majoring in Computer Science who is a naive learne
 I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers.
 <br><br>
 
-<b><span style="font-size: 22px !important; color: #4B0082;">彭绍庭 Shaoting Peng</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
-<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZy6J.png" width="300" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
 
 I am an undergraduate student majoring in Computer Science. I like sports, traveling, playing the guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
 <br><br>
@@ -129,24 +122,3 @@ I am an undergraduate student majoring in Computer Science. I like sports, trave
 
 <span style="font-size: 22px !important; color: #00CCFF;">游走江湖群</span>
 <hr>
-
-<b><span style="font-size: 20px !important; color: #4B0082;">石兆杰 Zhaojie Shi</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">材料 2016级本科 (Material Science 2016)</span><br>
-<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZ201.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学物质科学与技术学院材料科学与技术专业，理想从事教育行业。正在学习社会心理学、数学建模等知识。希望了解更多人们做决定时的心态。擅长自媒体研究、实验材料设计。
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Diane Huang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
-<div align="center"><img src="https://s2.ax1x.com/2020/02/13/1qZkWD.jpg" width="200" align="center" /></div><br>
-As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab for learning in autumn,2018. Armed with passions for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
-<br><br>
-
-<hr>
-<b><span style="font-size: 20px !important; color: #4B0082;">曾理 Li Zeng</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="https://s2.ax1x.com/2020/02/19/3EMfh9.jpg"  width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。 理想是成为一名计算机科学领域研究人员。对社会心理学和人工智能有一定的兴趣，希望能在ARLab对相关课题做一定的研究，并积累自己的研究经验，锻炼研究能力。
-<br><br>
-
